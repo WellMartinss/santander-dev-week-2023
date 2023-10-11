@@ -1,4 +1,4 @@
-package me.dio.santanderdevweek2023;
+package me.dio.santander;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
